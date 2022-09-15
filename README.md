@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Public.com is an investment platform that allows people to invest in stocks, ETFs, crypto and collectibles. Public was founded in 2018 by Jannick Malling, Leif Abraham, Matt Kennedy, Peter Quinn and Sean Hendelman. They originally were known as Matador, but in 2019 the company performed a major rebrand and renamed itself Public.com [1). An article on domainwire.com provides details on how Public attracted $308.5 million in funding to date, including a $220 million Series D round in February 2021. The same article states that, “this moved Public.com into unicorn territory, with the round moving the company’s valuation up to $1.2 billion.” [1) Public got heavy endorsements when they convinced high profile individuals such as Will Smith and Tony Hawk to become investors. The idea to change themselves to Public.com was in hopes to achieve a successful rebrand. They wanted to be seen as the investment platform that was built for the public, not necessarily for the financial trader or tech-savvy investor. [2). 
+Public.com is an investment platform that allows people to invest in stocks, ETFs, crypto and collectibles. Public was founded in 2018 by Jannick Malling, Leif Abraham, Matt Kennedy, Peter Quinn and Sean Hendelman. They originally were known as Matador, but in 2019 the company performed a major rebrand and renamed itself Public.com [1). An article on domainwire.com provides details on how Public attracted $308.5 million in funding to date, including a $220 million Series D round in February 2021. The same article states that, “this moved Public.com into unicorn territory, with the round moving the company’s valuation up to **$1.2 billion**.” [1) Public got heavy endorsements when they convinced high profile individuals such as Will Smith and Tony Hawk to become investors. The idea to change themselves to Public.com was in hopes to achieve a successful rebrand. They wanted to be seen as the investment platform that was built for the public, not necessarily for the financial trader or tech-savvy investor. [2). 
 
 ## Business Activities
 
@@ -19,3 +19,15 @@ Before 2015 retail investing was very different from what we see today. An indiv
 
 So what happened in 2015? The Robinhood app was launched. Robinhood is a financial investment company that allows individuals to invest in stocks, funds and crypto. Their mission was to allow everyone to have access to the financial markets, not just the wealthy. With their app, users could purchase financial products without paying commissions. Not only did this make investing for the retail investor more cost effective, but the ease and accessibility of investing was now a lot easier via using an application. Robinhood changed the way retail investors would invest and because of this.The investment sector had to change their business model to survive. [6) The future in retail trading had officially begun. As time went on, other companies such as webull, Etoro, Acorns, coinbase, gemini, Public and many more came along. All of these companies to this day keep using the trading platform technology innovation to help retail investors place orders and get information in real time.
 
+## Results
+
+The retail investor space has been a growing field since all of these investment platforms were created. Around 15% of retail investors got their start in 2020. [8) This was due to the fact that people were looking for an alternative source of income during the pandemic. “Retail investors made up around 17% of the market in January of 2020, but that number was 25%+ in July and August of that year”. [8) As we keep moving forward the retail investing space is not slowing down and as of January 2021 **8.1 million** average daily trades are being made. It is clear that this space has a large growing audience. As of 2019 Public hit their 1 million user milestone and since then has only been growing. [9). 
+
+## Recommendation
+
+hi there
+
+
+### Table of content
+[1 ref](https://domainnamewire.com/2021/09/16/public-com/#:~:text=Founded%20in%202018%2C%20Public.com%20started%20life%20as%20Matador%2C,seems%20that%20Matador%20wasn%E2%80%99t%20content%20with%20its%20name.)
+2
