@@ -23,9 +23,13 @@ So what happened in 2015? The Robinhood app was launched. Robinhood is a financi
 
 The retail investor space has been a growing field since all of these investment platforms were created. Around 15% of retail investors got their start in 2020. [8) This was due to the fact that people were looking for an alternative source of income during the pandemic. “Retail investors made up around 17% of the market in January of 2020, but that number was 25%+ in July and August of that year”. [8) As we keep moving forward the retail investing space is not slowing down and as of January 2021 **8.1 million** average daily trades are being made. It is clear that this space has a large growing audience. As of 2019 Public hit their 1 million user milestone and since then has only been growing. [9). 
 
-## Recommendation
+## Recommendations
+ 
+If I worked for the company I would look at the current market conditions and try to prepare for what could happen if the bear market gets worse. If the economy hits a bad recession I don’t believe that people will invest like they did during the pandemic. The reason I think this is because in the last few months investors have only seen the market drop and are now aware of the economic struggles that are affecting the markets. 
+I think a product and potentially a good route to keep users during that time is to create a paper trading side of the app that can be fun and educational. Not only will that help keep users, but it will stay in line with their mission of having a platform for the non-savvy investors. 
+I think this would benefit the company greatly because not only would it protect the capital of the users, but it would educate them on how to trade for when they are ready. In addition, I believe acts like this would help the company demonstrate that they always have the best intentions for the retail investor. I believe as we keep moving forward in this domain the biggest and most important factors will be earning and keeping the trust of their users.
+This solution would also be cost effective because they would be using the same technology from the trading platform software that they are using for the live trading. So they would not have to spend that much more capital on new tech and development.
 
-hi there
 
 
 ### Table of content
