@@ -29,8 +29,20 @@ hi there
 
 
 ### Table of content
-[1 Domainnamewire](https://domainnamewire.com/2021/09/16/public-com/#:~:text=Founded%20in%202018%2C%20Public.com%20started%20life%20as%20Matador%2C,seems%20that%20Matador%20wasn%E2%80%99t%20content%20with%20its%20name.)
-[2 Public.com](https://public.com/about-us)
-[3 Fool.com](https://www.fool.com/the-ascent/buying-stocks/articles/why-did-robinhood-shut-down-gamestop-trading/)
+[1 https://domainnamewire.com/2021/09/16/public-com/#:~:text=Founded%20in%202018%2C%20Public.com%20started%20life%20as%20Matador%2C,seems%20that%20Matador%20wasn%E2%80%99t%20content%20with%20its%20name](https://domainnamewire.com/2021/09/16/public-com/#:~:text=Founded%20in%202018%2C%20Public.com%20started%20life%20as%20Matador%2C,seems%20that%20Matador%20wasn%E2%80%99t%20content%20with%20its%20name.)
+
+[2 https://public.com/about-us](https://public.com/about-us)
+
+[3 https://www.fool.com/the-ascent/buying-stocks/articles/why-did-robinhood-shut-down-gamestop-trading](https://www.fool.com/the-ascent/buying-stocks/articles/why-did-robinhood-shut-down-gamestop-trading/)
 
 [4 https://www.asktraders.com/analysis/heres-why-robinhood-restricted-access-to-gamestop-shares](https://www.asktraders.com/analysis/heres-why-robinhood-restricted-access-to-gamestop-shares/)
+
+[5 https://www.marketplacefairness.org/blog/retail-investors-statistics/#:~:text=Combined%2C%20there%20are%20over%20100%20million%20users%2Faccounts%20at,from%20December%202020%2C%20which%20was%20a%20record.%206](https://www.marketplacefairness.org/blog/retail-investors-statistics/#:~:text=Combined%2C%20there%20are%20over%20100%20million%20users%2Faccounts%20at,from%20December%202020%2C%20which%20was%20a%20record.%206/)
+
+[6 https://en.wikipedia.org/wiki/Robinhood_Markets](https://en.wikipedia.org/wiki/Robinhood_Markets)
+
+[7 https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/trading-platform](https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/trading-platform/)
+
+[8 https://www.marketplacefairness.org/blog/retail-investors-statistics](https://www.marketplacefairness.org/blog/retail-investors-statistics/)
+
+[9 https://time.com/nextadvisor/investing/what-to-know-public-investing-app/#:~:text=Public%2C%20which%20launched%20in%202019%2C%20says%20it%20has,that%20it%20has%20raised%20%24310%20million%20from%20investors](https://time.com/nextadvisor/investing/what-to-know-public-investing-app/#:~:text=Public%2C%20which%20launched%20in%202019%2C%20says%20it%20has,that%20it%20has%20raised%20%24310%20million%20from%20investors.)
