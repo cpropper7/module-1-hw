@@ -32,3 +32,5 @@ hi there
 [1 Domainnamewire](https://domainnamewire.com/2021/09/16/public-com/#:~:text=Founded%20in%202018%2C%20Public.com%20started%20life%20as%20Matador%2C,seems%20that%20Matador%20wasn%E2%80%99t%20content%20with%20its%20name.)
 [2 Public.com](https://public.com/about-us)
 [3 Fool.com](https://www.fool.com/the-ascent/buying-stocks/articles/why-did-robinhood-shut-down-gamestop-trading/)
+
+[4 https://www.asktraders.com/analysis/heres-why-robinhood-restricted-access-to-gamestop-shares](https://www.asktraders.com/analysis/heres-why-robinhood-restricted-access-to-gamestop-shares/)
